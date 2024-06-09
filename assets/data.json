@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "CitizensName": "يقين سامي كمال ",
+    "PhoneNumber": "01125672874",
+    "PassportNumber": "P07693965",
+    "Nationality": "0",
+    "genre": "أنثي",
+    "Age": "5",
+    "education": "0",
+    "MaritalStatus": "0",
+    "address": "أسوان كركربيت167غرب السكة",
+    "notes": "البيانات من جمعيه كيرتاس مصر"
+  },
+  {
+    "id": 2,
+    "CitizensName": "كمال سامي كمال ",
+    "PhoneNumber": "01125672874",
+    "PassportNumber": "p07693880",
+    "Nationality": "0",
+    "genre": "ذكر",
+    "Age": "7",
+    "education": "0",
+    "MaritalStatus": "0",
+    "address": "أسوان كركربيت167غرب السكة",
+    "notes": "البيانات من جمعيه كيرتاس مصر"
+  },
+  {
+    "id": 3,
+    "CitizensName": "فايزة طلال محمد ",
+    "PhoneNumber": "01147530291",
+    "PassportNumber": "p05959504",
+    "Nationality": "0",
+    "genre": "أنثي",
+    "Age": "10",
+    "education": "0",
+    "MaritalStatus": "0",
+    "address": "أسوان الحكروب بجوار جامع فاطمة الزهراء",
+    "notes": "البيانات من جمعيه كيرتاس مصر"
+  },
+  {
+    "id": 4,
+    "CitizensName": "مصطفي هيثم عبد الرحمن محمد ",
+    "PhoneNumber": "01128452671",
+    "PassportNumber": "p04969732",
+    "Nationality": "0",
+    "genre": "ذكر ",
+    "Age": "5",
+    "education": "0",
+    "MaritalStatus": "0",
+    "address": "أسوان الحكروب-كوبري دبورة",
+    "notes": "البيانات من جمعيه كيرتاس مصر"
+  }]
